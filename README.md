@@ -20,11 +20,11 @@ Algumas explicações
 
 IDE - VS code
 
-Arquivo config.js da pasta services: 
+O Arquivo config.js da pasta services: 
 ------------------------------
 config.js eu import e configuro a axios para dentro do projeto e crio uma baseurl com a url da api
 
-Arquivo produtos,js da pasta services:
+O Arquivo produtos,js da pasta services:
 ---------------------------------
 produtos.js eu importei o arquivo de configuração que está dentro de uma constante (http)
 
@@ -33,10 +33,12 @@ export default {} e dentro criei os métodos de requisição http
 {listar, atualizar, apagar, salvar} famoso crud http
 
 ------------------------------------
-o Arquivo Main.js
+O Arquivo Main.js
 ----------------------------
 é o ponto de entrada para seu aplicativo. 
 Atualmente, este arquivo inicializa seu aplicativo Vue, Esse arquivo geralmente é onde você registra componentes globais ou bibliotecas Vue adicionais.
+
+O Arquivo app.vue
 
 
 
