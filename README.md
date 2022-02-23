@@ -17,7 +17,19 @@ AXIOS = npm install axios
 
 ------------------------------------
 Algumas explicações
+
 IDE - VS code
+
 A pasta services tem o arquivo config:
+config.js eu import e configuro a axios para dentro do projeto e crio uma baseurl com a url da api
+
+Arquivo produtos da pasta services: 
+produtos.js eu importei o arquivo de configuração que está dentro de uma constante (http)
+
+export default {} e dentro criei os métodos para se conectar com a api. 
+
+{listar, atualizar, apagar, salvar} famoso crud http
+
+
 
 
