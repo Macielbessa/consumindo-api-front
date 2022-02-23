@@ -40,6 +40,9 @@ Atualmente, este arquivo inicializa seu aplicativo Vue, Esse arquivo geralmente 
 
 O Arquivo app.vue
 ----------------------------
+é dividido em 3 partes, html ( template) o script ( Javascript) e o style ( css )
+
+
 
 
 
