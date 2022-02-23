@@ -39,6 +39,7 @@ O Arquivo Main.js
 Atualmente, este arquivo inicializa seu aplicativo Vue, Esse arquivo geralmente é onde você registra componentes globais ou bibliotecas Vue adicionais.
 
 O Arquivo app.vue
+----------------------------
 
 
 
