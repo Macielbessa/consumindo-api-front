@@ -28,7 +28,7 @@ Arquivo produtos da pasta services:
 ---------------------------------
 produtos.js eu importei o arquivo de configuração que está dentro de uma constante (http)
 
-export default {} e dentro criei os métodos para se conectar com a api. 
+export default {} e dentro criei os métodos de requisição http
 
 {listar, atualizar, apagar, salvar} famoso crud http
 
