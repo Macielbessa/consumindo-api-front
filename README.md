@@ -15,7 +15,9 @@ consultar, apresentar ou para persistir os dados em algum banco de dados
 
 AXIOS = npm install axios
 
-Verbo GET: axios.get 
-Verbo POST: axios.post 
-Verbo DELETE: axios.delete 
-Verbo PUT: axios.put
+------------------------------------
+Algumas explicações
+IDE - VS code
+A pasta services tem o arquivo config:
+
+
