@@ -33,8 +33,10 @@ export default {} e dentro criei os métodos de requisição http
 {listar, atualizar, apagar, salvar} famoso crud http
 
 ------------------------------------
-Main.js
+o Arquivo Main.js
 ----------------------------
+é o ponto de entrada para seu aplicativo. 
+Atualmente, este arquivo inicializa seu aplicativo Vue, Esse arquivo geralmente é onde você registra componentes globais ou bibliotecas Vue adicionais.
 
 
 
