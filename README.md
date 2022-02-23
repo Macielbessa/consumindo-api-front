@@ -20,11 +20,11 @@ Algumas explicações
 
 IDE - VS code
 
-A pasta services tem o arquivo config: 
+Arquivo config.js da pasta services: 
 ------------------------------
 config.js eu import e configuro a axios para dentro do projeto e crio uma baseurl com a url da api
 
-Arquivo produtos da pasta services:
+Arquivo produtos,js da pasta services:
 ---------------------------------
 produtos.js eu importei o arquivo de configuração que está dentro de uma constante (http)
 
